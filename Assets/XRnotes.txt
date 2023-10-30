@@ -1,0 +1,8 @@
+TO DO LIST:
+
+Scene needs to fade to black
+User is teleport to face direction of NPCs
+Fade from black 
+Pad and Arrow destorys. 
+Dialouge starts
+Dialouge is just verbal
