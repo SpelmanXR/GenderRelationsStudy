@@ -1,0 +1,29 @@
+TO DO LIST: Simuluation MVP 
+
+Scene needs to fade to black
+
+
+User is teleport to face direction of NPCs
+Fade from black 
+Pad and Arrow destorys. 
+
+UI Option for Continouse movement or Teleportation Movement. 
+
+Dialouge starts
+Dialouge is just verbal
+
+Group dancing and characters and popoff screenss comes off. He grabs her from .
+Implementation Details:
+
+Continous moving:
+If the player goes teleport pad voice acting and animation for delegate starts
+
+Teleportation Moving:
+when player exits, the player a teleport pad will glow once the teleportation pad glow the animation scene will trigger.
+
+Menu of options of what to do and a menu of what to do.
+
+The best option you can pick one and an explanation of why, and you can work you're way through each on 
+
+Delegate and pause and give. 
+
